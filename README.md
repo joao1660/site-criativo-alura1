@@ -1,1 +1,3 @@
 # site-criativo-alura1
+*{
+  
